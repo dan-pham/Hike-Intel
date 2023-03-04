@@ -9,6 +9,6 @@ The first screen the user sees is a map of trails with the latest posts. Tapping
 
 <img src="Screenshots/IMG_1112.png" width="250"> <img src="Screenshots/IMG_1113.png" width="250">
 
-To create a post, the user starts by selecting a type of trail condition or highlight. The user has to select pre-filled details or they can enter their own detail. For more specific details, the user can enter the trail name, add a more verbose description, and add a photo with the custom photo picker.
+To create a post, the user starts by selecting a type of trail condition or highlight. The user has to select pre-filled details or they can enter their own detail. For more specific details, the user can enter the trail name, add a more verbose description, and add a photo from their camera.
 
-<img src="Screenshots/IMG_1115.png" width="250"> <img src="Screenshots/IMG_1118.png" width="250"> <img src="Screenshots/IMG_1117.png" width="250">
+<img src="Screenshots/IMG_1115.png" width="250"> <img src="Screenshots/IMG_1118.png" width="250">
